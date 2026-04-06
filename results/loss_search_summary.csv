@@ -1,0 +1,7 @@
+form,equation,val_main_bce,val_probe_bce,weight_norm
+plus_probe_minus_reg,L = main + λ_probe * probe - λ_reg * reg,0.12773099852357445,0.13892523501583345,7.09170143498938
+plus_plus_no_reg,L = main + λ_probe * probe,0.14492307379433458,0.1534143625204781,5.465179891958376
+plus_plus,L = main + λ_probe * probe + λ_reg * reg,0.16335990051228108,0.17060122212409326,4.637855483112443
+main_only,L = main + λ_reg * reg,0.17809638072929623,0.20012284160559524,4.033128027601458
+current_minus_minus,L = main - λ_probe * probe - λ_reg * reg,0.42830105557958587,13.475081118131415,2.360340547981943
+minus_probe_plus_reg,L = main - λ_probe * probe + λ_reg * reg,0.446492190642168,9.066950214335066,1.653449272108432

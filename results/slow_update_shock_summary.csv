@@ -1,0 +1,5 @@
+form,equation,shock_deviation,recovery_error
+ema_target,\hat T \leftarrow (1-\alpha)\hat T + \alpha\hat T^{new},0.4555955724134971,0.28247340692358264
+additive_delta,\hat T \leftarrow \hat T + \alpha (\hat T^{new} - \hat T),0.4555955724134971,0.2824734069235827
+literal_current_delta,\hat T \leftarrow (1-\alpha)\hat T + \alpha (\hat T^{new} - \hat T),0.5797369319187777,0.42718374578571044
+overwrite_target,\hat T \leftarrow \hat T^{new},1.9868287552860218,0.33603332010552206

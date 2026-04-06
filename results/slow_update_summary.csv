@@ -1,0 +1,6 @@
+form,equation,rmse,avg_step,cp_error
+additive_delta,\hat T \leftarrow \hat T + \alpha (\hat T^{new} - \hat T),0.13897691929764835,0.06017889487298421,0.20392881308146169
+ema_target,\hat T \leftarrow (1-\alpha)\hat T + \alpha\hat T^{new},0.13897691929764835,0.0601788948729842,0.2039288130814617
+overwrite_target,\hat T \leftarrow \hat T^{new},0.1789845104712868,0.47316087400093465,0.3461957005789359
+literal_current_delta,\hat T \leftarrow (1-\alpha)\hat T + \alpha (\hat T^{new} - \hat T),0.2444836719659496,0.06317942856880769,0.42628873358223934
+no_update,\hat T \leftarrow \hat T,0.4352785924083923,0.0,0.7950616768926158
