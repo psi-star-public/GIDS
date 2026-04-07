@@ -1,5 +1,7 @@
 # GIDS Observer Framework
 
+www.psi.dev/research/
+
 This project turns the operational math in **Part 2**, **Part 3**, and **Part 4** of *God’s Infinite Dimensional Space* into a small Python framework and a set of executed Jupyter notebooks. This framework isn't proof that GIDS is real, it is only a live check to ensure that the math in the paper works as expected and that people can modify this for their own projects.  
 
 Note: The toy example data here is sparse because I do not want your computer to explode. A real implementation of this, besides figuring out your own embedding framework, would be computationally expensive and probably couldn't run on anything but a couple of graphics cards. Also, this is very unoptimized.
