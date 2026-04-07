@@ -148,15 +148,6 @@ The slow/fast split is a good fit when “what this account is generally like”
 - proposition: outreach framing, comp framing, timing, interviewer sequencing
 - outputs: reply, process advance, acceptance, delay
 
-### Care management or outreach
-The algebra still fits, but the bar is much higher.
-- more regulation
-- more ethics
-- more intervention risk
-- stronger need for calibration and causal discipline
-
-That is exactly where the paper’s warning matters: ranking is not causality.
-
 ## 7. What not to overclaim
 
 This project does **not** prove:
